@@ -51,8 +51,7 @@ input[type="date"] {
   font-size: 20px;
   background-color: #7c7c7c2b;
   color: #ffffff;
-  width: 60%;
-  margin-right: 10px;
+  width: 100%;
 }
 
 .input-cidade-wrapper {
@@ -86,23 +85,6 @@ button#buscar-cidade {
 }
 
 button#buscar-cidade:hover {
-  background-color: #7c7c7c6b;
-}
-
-button#calendar {
-  border: none;
-  outline: none;
-  padding: 10px;
-  border-radius: 50px;
-  background-color: #7c7c7c2b;
-  color: white;
-  cursor: pointer;
-  width: 30%;
-  margin-left: 25px;
-  border-radius: 25px;
-}
-
-button#calendar:hover {
   background-color: #7c7c7c6b;
 }
 
