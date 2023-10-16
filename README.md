@@ -30,7 +30,7 @@ Este é o meu primeiro projeto onde estou explorando como usar uma API para obte
 ## Créditos
 
 - Este projeto foi criado por [Samuel Mauli](https://www.linkedin.com/in/samuelmauli/).
-- API de Previsão do Tempo usada: [OpenWeather] (https://openweathermap.org)
+- API de Previsão do Tempo usada: [OpenWeather](https://openweathermap.org)
 
 Aproveite o seu primeiro projeto com API de previsão do tempo!
 
